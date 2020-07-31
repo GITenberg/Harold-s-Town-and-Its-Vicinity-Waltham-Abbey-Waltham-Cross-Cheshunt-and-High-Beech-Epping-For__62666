@@ -1,0 +1,32 @@
+_repo: Harold-s-Town-and-Its-Vicinity-Waltham-Abbey-Waltham-Cross-Cheshunt-and-High-Beech-Epping-For__62666
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Branfill, J. A. C. (John Arthur Capel)
+    alias: Branfill, John Arthur Capel
+    gutenberg_agent_id: '51971'
+    url: http://www.gutenberg.org/2009/agents/51971
+creator:
+  author:
+    agent_name: Bunting, Freeman
+    gutenberg_agent_id: '52065'
+    url: http://www.gutenberg.org/2009/agents/52065
+description: ''
+gutenberg_issued: '2020-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Homeland Handbooks. no. 45
+subjects:
+- !lcsh 'Epping Forest (England) -- Guidebooks'
+- !lcsh 'Cheshunt (England) -- Guidebooks'
+- !lcc 'DA'
+- !lcsh 'Waltham Abbey (England) -- Guidebooks'
+- GITenberg
+title: "Harold's Town and Its Vicinity\r\nWaltham Abbey, Waltham Cross, Cheshunt,\
+  \ and High Beech, Epping Forest"
+url: http://www.gutenberg.org/ebooks/62666
