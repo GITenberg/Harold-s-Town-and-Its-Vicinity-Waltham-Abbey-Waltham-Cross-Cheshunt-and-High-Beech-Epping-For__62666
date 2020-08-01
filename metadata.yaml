@@ -1,17 +1,22 @@
 _repo: Harold-s-Town-and-Its-Vicinity-Waltham-Abbey-Waltham-Cross-Cheshunt-and-High-Beech-Epping-For__62666
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   photographer:
     agent_name: Branfill, J. A. C. (John Arthur Capel)
     alias: Branfill, John Arthur Capel
     gutenberg_agent_id: '51971'
     url: http://www.gutenberg.org/2009/agents/51971
+covers:
+- cover_type: archival
+  image_path: 62666-h/images/cover-b.jpg
 creator:
   author:
     agent_name: Bunting, Freeman
     gutenberg_agent_id: '52065'
     url: http://www.gutenberg.org/2009/agents/52065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62666#Harold-s-Town-and-Its-Vicinity-Waltham-Abbey-Waltham-Cross-Cheshunt-and-High-Beech-Epping-For_
 gutenberg_issued: '2020-07-16'
 gutenberg_type: Text
 identifiers:
